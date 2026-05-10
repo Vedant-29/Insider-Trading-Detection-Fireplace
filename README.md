@@ -46,11 +46,10 @@ mean 23, median 20, 95th percentile 56, 4 / 100 flagged.
 3. [Why some insiders don't flag](#why-some-insiders-dont-flag)
 4. [Architecture](#architecture)
 5. [Data flow](#data-flow)
-6. [V1 vs V2 contracts](#v1-vs-v2-contracts)
-7. [Setup](#setup)
-8. [Run the full pipeline](#run-the-full-pipeline)
-9. [Real-time mode](#real-time-mode)
-10. [Repository tour](#repository-tour)
+6. [Setup](#setup)
+7. [Run the full pipeline](#run-the-full-pipeline)
+8. [Real-time mode](#real-time-mode)
+9. [Repository tour](#repository-tour)
 
 ---
 
