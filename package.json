@@ -1,0 +1,35 @@
+{
+  "name": "polymarket-insider-detector",
+  "version": "1.0.0",
+  "description": "Detects insider trading on Polymarket via on-chain indexing + heuristic scoring",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx src/lib/migrate.ts",
+    "db:studio": "drizzle-kit studio",
+    "backfill:trades": "tsx src/indexer/trades-backfill-parallel.ts",
+    "backfill:trades:resume": "tsx src/indexer/trades-backfill-resume-worker.ts",
+    "backfill:funding": "tsx src/indexer/funding-backfill.ts",
+    "enrich:markets": "tsx src/enrichment/enrichMarkets.ts",
+    "enrich:outcomes": "tsx src/enrichment/fillOutcomes.ts",
+    "score:manipulability": "tsx src/detection/manipulability.ts",
+    "score:wallets": "tsx src/detection/score.ts",
+    "live": "tsx src/indexer/trades-live.ts",
+    "validate": "tsx src/cli/validate.ts",
+    "leaderboard": "tsx src/cli/leaderboard.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "drizzle-orm": "^0.45.2",
+    "pg": "^8.20.0",
+    "viem": "^2.48.11"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "@types/pg": "^8.20.0",
+    "drizzle-kit": "^0.31.10",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}

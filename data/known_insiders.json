@@ -1,0 +1,58 @@
+[
+  {
+    "address": "0xee50a31c3f5a7c77824b12a941a54388a2827ed6",
+    "label": "Google Year-in-Search (d4vd / AlphaRaccoon)",
+    "market": "Most-searched X on Google 2025",
+    "evidence": "Bet on 0.2% prob outcome (d4vd); $3M deposit Friday before announcement; 22-for-23 hit rate on Year-in-Search markets; ~$1M profit in <24h",
+    "source_url": "https://x.com/drizzl3r/status/1996434092749914596"
+  },
+  {
+    "address": "0xc51eedc01790252d571648cb4abd8e9876de5202",
+    "label": "Spotify Wrapped #3 artist (hogriddahhhh)",
+    "market": "#3 Most Streamed Spotify Artist 2025",
+    "evidence": "Traders scraped publicly-accessible Spotify WordPress staging file before announcement; The Weeknd surged from 40% to 99% hours before the announcement; multi-thousand-dollar wins documented",
+    "source_url": "https://x.com/PolymarketStory/status/1995933029349634389"
+  },
+  {
+    "address": "0x6baf05d193692bb208d616709e27442c910a94c5",
+    "label": "Maduro out — wallet 1 (SBet365)",
+    "market": "Will Maduro be out of office by Jan 31?",
+    "evidence": "Received $436,700 USDC from CTF Exchange at 1:41 PM UTC Jan 3; $437,800 left at 11:54 PM UTC same day. Same-day cash-and-run.",
+    "source_url": "https://x.com/thejayden/status/2010844183301374290"
+  },
+  {
+    "address": "0x31a56e9e690c621ed21de08cb559e9524cdb8ed9",
+    "label": "Maduro out — wallet 2 (federally indicted Master Sgt. Van Dyke)",
+    "market": "Will Maduro be out of office by Jan 31?",
+    "evidence": "Wallet created late Dec 2025; only 4 trades, all on US/Venezuela intervention; funded with ~$34k → walked with $409,900 (1200% ROR). FIRST FEDERAL CRIMINAL CHARGES for prediction-market insider trading.",
+    "source_url": "https://x.com/Andrey_10gwei/status/2007904168791454011"
+  },
+  {
+    "address": "0x0afc7ce56285bde1fbe3a75efaffdfc86d6530b2",
+    "label": "Israel strikes Iran (ricosuave666 / Rundeep)",
+    "market": "Will Israel strike Iran by Jan 31, 2026",
+    "evidence": "7-for-7 hit rate on Israel/Iran markets during June 2025 12-day war; reactivated after 7 dormant months for $8,198 Yes bet; cumulative Israel-bet profit $155,699 / 100% W/L",
+    "source_url": "https://x.com/AdameMedia/status/2009011970780037534"
+  },
+  {
+    "address": "0x7f1329ade2ec162c6f8791dad99125e0dc49801c",
+    "label": "Trump pardon CZ (bigwinner01 / GarrettBullish)",
+    "market": "Will Trump pardon CZ in 2025?",
+    "evidence": "Began buying Yes from Sept 28; ~$28,677 invested → +$56,824 (199%); wallet linked to Hyperliquid whale who shorted BTC for ~$190M before market-moving Trump tweet",
+    "source_url": "https://x.com/Polysights/status/1977716009797570865"
+  },
+  {
+    "address": "0x976685b6e867a0400085b1273309e84cd0fc627c",
+    "label": "MicroStrategy Bitcoin sale (fromagi)",
+    "market": "MicroStrategy / Strategy BTC sale + dividend markets",
+    "evidence": "Polysights flagged 'MicroStrategy insiders are back' — recurring wallets matching prior MSTR-insider playbook; smooth multi-day accumulation by previously-flagged wallets",
+    "source_url": "https://x.com/Polysights/status/1997753083934204049"
+  },
+  {
+    "address": "0x55ea982cebff271722419595e0659ef297b48d7c",
+    "label": "DraftKings prediction-market launch (flaccidwillie)",
+    "market": "DraftKings prediction-market launch / quarterly markets",
+    "evidence": "Flagged by Polysights",
+    "source_url": "https://x.com/Polysights/status/1999361742405611964"
+  }
+]
